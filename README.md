@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kusal Abeysinghe
-- 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning python/SQL
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me  kusalabeysinghe@gmail.com
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Python/SQL
+- 💞️ I’m looking to collaborate on Computer Science applications
+- 📫 How to reach me kusalabeysinghe@gmail.com
 
 <!---
 KusaLLL/KusaLLL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
