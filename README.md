@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kusal Abeysinghe
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python/SQL
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning Python/SQL/HTML/CSS
 - 💞️ I’m looking to collaborate on Computer Science applications
 - 📫 How to reach me kusalabeysinghe@gmail.com
 
